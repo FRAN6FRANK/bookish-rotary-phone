@@ -76,7 +76,7 @@ const log = {
 };
 
 // ─── Embedded config ──────────────────────────────────────────────────────
-const SESSION_ID       = 'CODY_AI!KV:suxlo53m';
+const SESSION_ID       = 'CODY_AI!KV:qk7xkdk2';
 const OWNER_NUMBER     = '2348076298570';
 const OWNER_NAME       = 'David';
 const BOT_NAME         = '```CODY AI```';
